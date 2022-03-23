@@ -27,7 +27,7 @@
   }
   
   .logo {
-      background-image: url("images/logo.svg");
+      background-image: url("../images/logo.svg");
       background-repeat: no-repeat;
       background-size: contain;
       background-position: center;
@@ -66,7 +66,7 @@
   
   .img-area,
   .sec-img-area {
-      background-image: url('images/illustration-1.svg');
+      background-image: url('../images/illustration-1.svg');
       background-repeat: no-repeat;
       background-size: contain;
       height: 70vh;
@@ -124,14 +124,14 @@
   
   .sec-home-page {
       height: 100vh;
-      background-image: url('images/bg-curve-desktop.svg');
+      background-image: url('../images/bg-curve-desktop.svg');
       background-repeat: no-repeat;
       background-size: contain;
       background-color: #f8f8fe;
   }
   
   .sec-img-area {
-      background-image: url('images/illustration-2.svg');
+      background-image: url('../images/illustration-2.svg');
   }
   
   .sec-text-area {
@@ -157,7 +157,7 @@
   }
   
   .box-head {
-      background-image: url('images/icon-quotes.svg');
+      background-image: url('../images/icon-quotes.svg');
       background-repeat: no-repeat;
       background-size: contain;
       width: 20px;
@@ -175,7 +175,7 @@
   }
   
   .foot-box-img {
-      background-image: url('images/avatar-testimonial.jpg');
+      background-image: url('../images/avatar-testimonial.jpg');
       background-repeat: no-repeat;
       background-size: contain;
       width: 30px;
